@@ -1,0 +1,7 @@
+{
+  "name": "graphql-prisma-server",
+  "version": "1.0.0",
+  "description": "A template example for a back end server using Graphql and Prisma for the database.",
+  "main": "index.js",
+  "license": "MIT"
+}
